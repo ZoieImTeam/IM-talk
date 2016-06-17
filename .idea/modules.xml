@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IM-talk.iml" filepath="$PROJECT_DIR$/IM-talk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui-release_3.1.2/easeui-release_3.1.2.iml" filepath="$PROJECT_DIR$/easeui-release_3.1.2/easeui-release_3.1.2.iml" />
     </modules>
   </component>
 </project>
